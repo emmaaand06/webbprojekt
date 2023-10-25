@@ -1,0 +1,20 @@
+*{
+    margin:0%;
+}
+@font-face {
+    font-family: LemonMilk;
+    src: url(fonts/LEMONMILK-Regular.otf);
+}
+@font-face {
+    font-family: Louis George Cafe;
+    src: url(fonts/Louis\ George\ Cafe.ttf);
+}
+.menue{
+    width:auto;
+    height:100px;
+    image-orientation: 1rad;
+    background-color: #8d7448;
+}
+.menue img{
+    margin:2%;
+}
